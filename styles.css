@@ -1,0 +1,85 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-size: center;
+    text-align: center;
+    margin: 0 200px;
+    align-content: center;
+    background-color: #b9b7a7;
+}
+
+.header {
+    padding: 25px;
+    background-color: #4E5166;
+    margin: 0px;
+}
+.title {
+    font-size: 40px;
+}
+
+.introduction {
+    font-size: 23px;
+    padding: 5px;
+    background-color: #747274;
+    margin: 0px;
+}
+
+.perpetrator {
+    font-size: 22px;
+    background-color: #7C90A0;
+    padding: 5px;
+    margin: 0px;
+}
+
+.profile {
+    display: inline-block;
+    *display: inline;
+    zoom: .75;
+    padding-left: 100px;
+    width: 355px
+}
+
+ul {
+    display: inline-block;
+    *display:inline;
+    zoom: 1;
+    list-style-type: none;
+    text-align: left;
+    margin: 0, auto;
+}
+
+.char {
+    margin-bottom: -5px;
+}
+
+.incident {
+    background-color: #7C90A0;
+    background-color: #B5AA9D;
+    padding: 5px;
+    margin: 0px, auto;
+    text-align:justify;
+    font-size: 17.5px;
+}
+.video {
+    text-align: center;
+    padding-top: 20px;
+}
+.resolution {
+    background-color: #4E5166;
+    background-color: #B5AA9D;
+    padding: 5px;
+    margin: 0px, auto;
+    text-align: justify;
+    font-size: 17.5px;
+}
+.tazeblock {
+    text-align: center;
+}
+.taze {
+    width: 500px;
+}
+
+.related {
+    padding: 5px;
+    background-color: #747274;
+    margin: 0px;
+}
